@@ -1,0 +1,29 @@
+{
+  "name": "giab-store",
+  "version": "1.0.0",
+  "description": "a store to collect \"giab\" posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simongfxu/giab-store.git"
+  },
+  "keywords": [
+    "giab",
+    "github",
+    "issues",
+    "blog",
+    "post"
+  ],
+  "author": "simonxu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simongfxu/giab-store/issues"
+  },
+  "homepage": "https://github.com/simongfxu/giab-store#readme",
+  "dependencies": {
+    "giab": "^1.0.3"
+  }
+}
