@@ -4,7 +4,9 @@
   "description": "a store to collect \"giab\" posts",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node node_modules/giab",
+    "commit": "git commit -a -m \"update\" && git push origin master"
   },
   "repository": {
     "type": "git",
