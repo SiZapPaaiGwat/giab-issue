@@ -14,13 +14,47 @@ a store to collect famous ["giab"](https://github.com/simongfxu/giab) (github is
 
 <!--giab:issue_list_start-->
 
+### DavidCai1993
+
+> * [2016-05-08  通过源码解析 Node.js 中高效的 timer](https://github.com/DavidCai1993/my-blog/issues/32)
+> * [2016-05-06  通过源码解析 Node.js 中进程间通信中的 socket 句柄传递](https://github.com/DavidCai1993/my-blog/issues/31)
+> * [2016-05-03  通过源码解析 Node.js 中 Buffer 的 8KB 池分配规则和固定位数字的读写](https://github.com/DavidCai1993/my-blog/issues/30)
+> * [2016-05-01  通过源码解析 Node.js 中一个 HTTP 请求到响应的历程](https://github.com/DavidCai1993/my-blog/issues/29)
+> * [2016-04-28  通过源码解析 Node.js 启动时第一个执行的 js 文件：bootstrap_node.js](https://github.com/DavidCai1993/my-blog/issues/28)
+> * [2016-04-25  通过源码解析 Node.js 中 events 模块里的优化小细节](https://github.com/DavidCai1993/my-blog/issues/27)
+> * [2016-03-27  通过源码解析 Node.js 中一个文件被 require 后所发生的故事](https://github.com/DavidCai1993/my-blog/issues/26)
+> * [2016-03-20  一些当前 Node.js 中最流行 ES6 特性的 benchmark （V8 / Chakra）](https://github.com/DavidCai1993/my-blog/issues/25)
+> * [2016-03-16  通过源码解析 Node.js 中 cluster 模块的主要功能实现](https://github.com/DavidCai1993/my-blog/issues/24)
+> * [2016-02-29  使用 Node.js 中的流写工具时的两点小 tips](https://github.com/DavidCai1993/my-blog/issues/23)
+> * [2016-02-09  通过源码解析 Node.js 中导流（pipe）的实现](https://github.com/DavidCai1993/my-blog/issues/22)
+> * [2016-01-24  在 Web 应用中使用装饰器（Decorator）初体验](https://github.com/DavidCai1993/my-blog/issues/21)
+> * [2015-12-05  [译]JavaScript ES6模块指南](https://github.com/DavidCai1993/my-blog/issues/20)
+> * [2015-12-02  [译]web权限验证方法说明](https://github.com/DavidCai1993/my-blog/issues/19)
+> * [2015-11-21  [译]Express在生产环境下的最佳实践 - 性能和可靠性](https://github.com/DavidCai1993/my-blog/issues/18)
+> * [2015-11-19  [译]Express应用结构的最佳实践](https://github.com/DavidCai1993/my-blog/issues/17)
+> * [2015-11-15  [译]Express在生产环境下的最佳实践-安全性](https://github.com/DavidCai1993/my-blog/issues/16)
+> * [2015-10-22  [译]初窥Express 5](https://github.com/DavidCai1993/my-blog/issues/15)
+> * [2015-10-15  [译]Node.js安全清单](https://github.com/DavidCai1993/my-blog/issues/14)
+> * [2015-09-22  [译]JavaScript ES6箭头函数指南](https://github.com/DavidCai1993/my-blog/issues/13)
+> * [2015-09-15  [译]事件循环，Node.js背后的核心概念](https://github.com/DavidCai1993/my-blog/issues/12)
+> * [2015-08-15  [译]JavaScript ES6 class指南](https://github.com/DavidCai1993/my-blog/issues/11)
+> * [2015-07-26  [译]JavaScript ES6迭代器指南](https://github.com/DavidCai1993/my-blog/issues/10)
+> * [2015-06-19  [译]JavaScript ES6解构赋值指南](https://github.com/DavidCai1993/my-blog/issues/9)
+> * [2015-06-17  Node.js中spawn与exec的异同比较](https://github.com/DavidCai1993/my-blog/issues/8)
+> * [2015-05-27  用ES6重写《JavaScript Patterns》中的设计模式](https://github.com/DavidCai1993/my-blog/issues/7)
+> * [2015-05-24  【译】从coffeeScript迁移到ES6](https://github.com/DavidCai1993/my-blog/issues/6)
+> * [2015-05-12  分享一个写的node RSS爬虫，以及主要实现流程](https://github.com/DavidCai1993/my-blog/issues/5)
+> * [2015-04-28  一起来实现co（Promise化的4.X版）](https://github.com/DavidCai1993/my-blog/issues/4)
+> * [2015-04-27  分享一个自己写的小工具:dir-requirer](https://github.com/DavidCai1993/my-blog/issues/3)
+
 ### fouber
 
+> * [2016-04-26  前端工程适合任何项目吗，是不是应该从小项目就开始试着使用前端工程化](https://github.com/fouber/blog/issues/22)
 > * [2016-02-24  关于组件化开发的问题](https://github.com/fouber/blog/issues/19)
 > * [2015-08-27 :heart: 前端工程——基础篇](https://github.com/fouber/blog/issues/10)
-> * [2015-06-26 :fire::fire::fire: 欢迎一起探讨各自在前端开发中遇到的工程问题](https://github.com/fouber/blog/issues/8)
+> * [2015-06-26 :heart: 欢迎一起探讨各自在前端开发中遇到的工程问题](https://github.com/fouber/blog/issues/8)
 > * [2015-06-06  如何进行前端自动化测试？](https://github.com/fouber/blog/issues/7)
-> * [2014-11-01 :fire::fire::fire::fire: 大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
+> * [2014-11-01 :heart: 大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
 > * [2014-10-30 :fire::fire::fire::fire: 资源定位中md5戳的计算过程](https://github.com/fouber/blog/issues/5)
 > * [2014-06-14 :fire::fire::fire::fire: 前端工程与模块化框架](https://github.com/fouber/blog/issues/4)
 > * [2014-05-02 :fire::fire: 前端工程与性能优化](https://github.com/fouber/blog/issues/3)
@@ -35,7 +69,7 @@ a store to collect famous ["giab"](https://github.com/simongfxu/giab) (github is
 > * [2015-11-15  Angular的变革](https://github.com/xufei/blog/issues/25)
 > * [2015-11-11 :fire::fire: 未来Web应用的前端技术选型畅想](https://github.com/xufei/blog/issues/24)
 > * [2015-11-09  优化Angular应用的性能](https://github.com/xufei/blog/issues/23)
-> * [2015-10-18 :fire: Web应用组件化的权衡](https://github.com/xufei/blog/issues/22)
+> * [2015-10-18 :fire::fire: Web应用组件化的权衡](https://github.com/xufei/blog/issues/22)
 > * [2015-05-30 :fire::fire: 后Angular时代二三事](https://github.com/xufei/blog/issues/21)
 > * [2015-03-25 :heart: 2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
 > * [2015-02-03 :fire: AngularJS实例教程（二）——作用域与事件](https://github.com/xufei/blog/issues/18)
@@ -43,7 +77,7 @@ a store to collect famous ["giab"](https://github.com/simongfxu/giab) (github is
 > * [2015-01-18 :fire: 老码农的技术理想](https://github.com/xufei/blog/issues/16)
 > * [2015-01-15 :fire::fire::fire: ［翻译］Angular的问题](https://github.com/xufei/blog/issues/15)
 > * [2015-01-12 :fire::fire: AngularJS实例教程（一）——数据绑定与监控](https://github.com/xufei/blog/issues/14)
-> * [2014-12-13 :fire: 今年搞的一些活动的意图](https://github.com/xufei/blog/issues/13)
+> * [2014-12-13 :fire::fire: 今年搞的一些活动的意图](https://github.com/xufei/blog/issues/13)
 > * [2014-12-07 :fire: 企业文化与价值观 — 给新员工的一封信](https://github.com/xufei/blog/issues/12)
 > * [2014-11-26  Angular沉思录（二）视图模型的层次](https://github.com/xufei/blog/issues/11)
 > * [2014-11-26  Angular沉思录（一）数据绑定](https://github.com/xufei/blog/issues/10)
@@ -51,7 +85,7 @@ a store to collect famous ["giab"](https://github.com/simongfxu/giab) (github is
 > * [2014-11-22 :fire: ［翻译］有关Angular 2.0的一切](https://github.com/xufei/blog/issues/8)
 > * [2014-11-10  Web应用的组件化（二）——管控平台](https://github.com/xufei/blog/issues/7)
 > * [2014-11-10  Web应用的组件化（一）——基本思路](https://github.com/xufei/blog/issues/6)
-> * [2014-10-21 :fire: 构建单页Web应用](https://github.com/xufei/blog/issues/5)
+> * [2014-10-21 :fire::fire: 构建单页Web应用](https://github.com/xufei/blog/issues/5)
 > * [2014-10-19  给一位打算从事前端，但是又有疑惑的在校大学生的回信](https://github.com/xufei/blog/issues/4)
 > * [2014-10-01 :fire: 从HTML Components的衰落看Web Components的危机](https://github.com/xufei/blog/issues/3)
 
@@ -66,6 +100,7 @@ a store to collect famous ["giab"](https://github.com/simongfxu/giab) (github is
 
 ### yisibl
 
+> * [2016-04-26  有趣的 ::first-letter](https://github.com/yisibl/blog/issues/8)
 > * [2015-04-24  有趣的 CSS Alpha 值](https://github.com/yisibl/blog/issues/7)
 > * [2014-10-25 :fire: 透过D2官网小觑前端工程化](https://github.com/yisibl/blog/issues/6)
 > * [2014-04-16  扩展你的CSS](https://github.com/yisibl/blog/issues/4)
@@ -75,6 +110,11 @@ a store to collect famous ["giab"](https://github.com/simongfxu/giab) (github is
 
 ### gf-rd
 
+> * [2016-05-11  Nodejs实现网站发送邮件的功能](https://github.com/gf-rd/blog/issues/37)
+> * [2016-05-05  十分钟看懂webSocket](https://github.com/gf-rd/blog/issues/36)
+> * [2016-04-25  React Native调研](https://github.com/gf-rd/blog/issues/35)
+> * [2016-04-15  深入理解Angular2变化监测和ngZone](https://github.com/gf-rd/blog/issues/34)
+> * [2016-03-31  【好文翻译】针针见血：怎么消除JavaScript中的代码坏味道](https://github.com/gf-rd/blog/issues/33)
 > * [2016-02-25  从零开始学习promise ](https://github.com/gf-rd/blog/issues/32)
 > * [2016-02-23  [Node] - Node异步那些事](https://github.com/gf-rd/blog/issues/31)
 > * [2016-01-26  [Ionic] - 基于Ionic的App+Web混合开发实践](https://github.com/gf-rd/blog/issues/30)
@@ -100,14 +140,10 @@ a store to collect famous ["giab"](https://github.com/simongfxu/giab) (github is
 > * [2015-11-30  Node 接入层 - 微服务架构](https://github.com/gf-rd/blog/issues/10)
 > * [2015-11-21  Angular 2.0 术语表 ](https://github.com/gf-rd/blog/issues/9)
 > * [2015-11-19  Ionic/cordova App 更新机制总结](https://github.com/gf-rd/blog/issues/8)
-> * [2015-10-30  黑盒子里的Meteor：关键概念解析](https://github.com/gf-rd/blog/issues/7)
-> * [2015-10-30  Ionic 系列 - Navigation 和 ionHistory 详解](https://github.com/gf-rd/blog/issues/6)
-> * [2015-10-30  Ionic 系列 - 玩转 view cache](https://github.com/gf-rd/blog/issues/5)
-> * [2015-10-21  Cordova iOS 打包分发小结](https://github.com/gf-rd/blog/issues/4)
-> * [2015-09-21  Node.js API gateway](https://github.com/gf-rd/blog/issues/3)
 
 ### cssmagic
 
+> * [2016-03-12  [译] jQuery 3 有哪些新东西](https://github.com/cssmagic/blog/issues/59)
 > * [2016-02-15  [译] Webpack 2 有哪些新东西](https://github.com/cssmagic/blog/issues/58)
 > * [2016-02-07  [译] NPM 与前端包管理](https://github.com/cssmagic/blog/issues/57)
 > * [2016-01-14 :fire: [译] 基于 Webpack 和 ES6 打造 JavaScript 类库](https://github.com/cssmagic/blog/issues/56)
@@ -117,7 +153,7 @@ a store to collect famous ["giab"](https://github.com/simongfxu/giab) (github is
 > * [2015-08-14 :fire::fire::fire: [幻灯片] 重拾 CSS 的乐趣（上）](https://github.com/cssmagic/blog/issues/52)
 > * [2015-03-26  如何在 GitHub 正确吐槽](https://github.com/cssmagic/blog/issues/51)
 > * [2015-03-20  如何正确接收 GitHub 的消息邮件](https://github.com/cssmagic/blog/issues/49)
-> * [2015-03-12  前端进阶之路：点击事件绑定](https://github.com/cssmagic/blog/issues/48)
+> * [2015-03-12 :fire: 前端进阶之路：点击事件绑定](https://github.com/cssmagic/blog/issues/48)
 > * [2014-10-21  [译] YUI 的浏览器分级支持策略](https://github.com/cssmagic/blog/issues/47)
 > * [2014-04-06 :fire: 浅析 Bootstrap 的 CSS 类名设计](https://github.com/cssmagic/blog/issues/45)
 > * [2013-10-12  [译] [PJA] [600] 第六章 关注点分离](https://github.com/cssmagic/blog/issues/43)
@@ -137,7 +173,6 @@ a store to collect famous ["giab"](https://github.com/simongfxu/giab) (github is
 > * [2013-09-26  实战中踩到的 JSON 小坑](https://github.com/cssmagic/blog/issues/29)
 > * [2013-09-25  如何在 iOS 设备上配置 hosts](https://github.com/cssmagic/blog/issues/28)
 > * [2013-09-13  [多图] 苹果 2013 iPhone 5c/5s 发布会简译与简评](https://github.com/cssmagic/blog/issues/27)
-> * [2013-08-24  [译] 分分钟学会一门语言之 Ruby 篇](https://github.com/cssmagic/blog/issues/26)
 
 ### livoras
 
@@ -156,6 +191,7 @@ a store to collect famous ["giab"](https://github.com/simongfxu/giab) (github is
 
 ### wintercn
 
+> * [2016-04-01 :fire: 一种全新的UI架构——HSEJ模式](https://github.com/wintercn/blog/issues/10)
 > * [2015-07-08  谈谈面试与面试题 II](https://github.com/wintercn/blog/issues/8)
 > * [2015-07-01  HTML中的attribute和property](https://github.com/wintercn/blog/issues/7)
 > * [2015-02-11  谈谈UI架构设计的演化](https://github.com/wintercn/blog/issues/6)
