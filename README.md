@@ -1,4 +1,4 @@
-# giab-store
+# giab-issue
 a store to collect famous ["giab"](https://github.com/simongfxu/giab) (github issue as blog)  posts.
 
 ## 参与
